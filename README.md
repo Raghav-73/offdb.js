@@ -15,4 +15,4 @@ npm install offdb.js
 ```
 
 ![npm version](https://img.shields.io/npm/v/offdb.js)
-![License](https://img.shields.io/github/license/raghav-73/offdb.js)
+![License](https://img.shields.io/github/license/Raghav-73/offdb.js)
