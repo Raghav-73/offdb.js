@@ -1,6 +1,6 @@
-# OffDB
+# OffDB.js
 
-**OffDB** is a lightweight, serverless JSON-based NoSQL database designed for offline-first applications like Electron apps.
+**OffDB.js** is a lightweight, serverless JSON-based NoSQL database designed for offline-first applications like Electron apps.
 
 ## Features
 
@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-npm install offdb
+npm install offdb.js
 ```
 
 ![npm version](https://img.shields.io/npm/v/offdb.js)
