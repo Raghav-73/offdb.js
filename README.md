@@ -14,5 +14,12 @@
 npm install offdb.js
 ```
 
-![npm version](https://img.shields.io/npm/v/offdb.js)
-![License](https://img.shields.io/github/license/Raghav-73/offdb.js)
+# Badges -
+
+![npm version](https://img.shields.io/npm/v/offdb)
+![npm downloads](https://img.shields.io/npm/dw/offdb)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/offdb)
+![GitHub stars](https://img.shields.io/github/stars/Raghav-73/offdb.js)
+![GitHub forks](https://img.shields.io/github/forks/Raghav-73/offdb.js)
+![GitHub issues](https://img.shields.io/github/issues/Raghav-73/offdb.js)
+![GitHub license](https://img.shields.io/github/license/Raghav-73/offdb.js)
