@@ -1,6 +1,6 @@
 {
   "name": "offdb.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight, serverless JSON-based NoSQL database for offline use.",
   "main": "index.js",
   "scripts": {
