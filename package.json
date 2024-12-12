@@ -1,0 +1,19 @@
+{
+  "name": "offdb.js",
+  "version": "1.0.2",
+  "description": "A lightweight, serverless JSON-based NoSQL database for offline use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "database",
+    "nosql",
+    "offline-db",
+    "offdb.js",
+    "offdbjs"
+  ],
+  "author": "Raghav Patel",
+  "license": "MIT"
+}
